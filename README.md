@@ -6,5 +6,3 @@ The project is based on Nuvoton's NUC140VE3CN microprocessor and is controlled b
 In this project I put emphasis on user interface, detailed and visible instructions that includes displaying special icons and even a designed opening video.
 Skills I acquired during the project:
 In this project I studied the memory limitation issues of microprocessors which required me to optimize the code several times. In addition, I learned how complicated but important it is to create a good user interface.
-
-https://github.com/YakirNissim/Smart-Boiler-System/blob/master/Special%20GIF%20symbols.mp4
